@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DebugMyApp</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+</resources>
